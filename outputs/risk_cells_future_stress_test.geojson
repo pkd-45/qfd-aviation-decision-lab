@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.6120502386724,
+          -24.044005703247183
+        ]
+      },
+      "properties": {
+        "cell_id": 0,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.732969187031661,
+        "climate_exposure": 0.5945616023457134,
+        "vulnerability": 0.3331683401658769,
+        "water_scarcity": 0.3302444909416316,
+        "scenario_risk_raw": 0.6749418358987151,
+        "scenario_risk": 0.02415550384888045,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.46150042915818,
+          -28.9
+        ]
+      },
+      "properties": {
+        "cell_id": 1,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.4049870205821995,
+        "climate_exposure": 0.5829239051077559,
+        "vulnerability": 0.30345773389903136,
+        "water_scarcity": 0.24082018910714445,
+        "scenario_risk_raw": 0.47833142199545026,
+        "scenario_risk": 0.017119010691738264,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.70869881613623,
+          -23.471711441022514
+        ]
+      },
+      "properties": {
+        "cell_id": 2,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.501180191855702,
+        "climate_exposure": 0.4188126264137464,
+        "vulnerability": 0.33786798878714525,
+        "water_scarcity": 0.37933465231597957,
+        "scenario_risk_raw": 0.510862256101198,
+        "scenario_risk": 0.01828325721885175,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.07838472636934,
+          -24.99407106309276
+        ]
+      },
+      "properties": {
+        "cell_id": 3,
+        "region_cluster": "WideBay",
+        "bushfire_hazard": 0.3453155522089089,
+        "climate_exposure": 0.3298256726656912,
+        "vulnerability": 0.3858437137839117,
+        "water_scarcity": 0.025,
+        "scenario_risk_raw": 0.38193255562008444,
+        "scenario_risk": 0.013668990165662448,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3673986654205,
+          -24.32455988650356
+        ]
+      },
+      "properties": {
+        "cell_id": 4,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.4315495485113582,
+        "climate_exposure": 0.5057004978984759,
+        "vulnerability": 0.4659220491153861,
+        "water_scarcity": 0.19127322298550717,
+        "scenario_risk_raw": 0.5130686627841687,
+        "scenario_risk": 0.018362222341900804,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.33996795883107,
+          -17.91042466376656
+        ]
+      },
+      "properties": {
+        "cell_id": 5,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.4507968133898905,
+        "climate_exposure": 0.502396908813236,
+        "vulnerability": 0.3792399200098572,
+        "water_scarcity": 0.589838150224498,
+        "scenario_risk_raw": 0.5381425557950563,
+        "scenario_risk": 0.019259592288341346,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.09808691150388,
+          -28.1972516577287
+        ]
+      },
+      "properties": {
+        "cell_id": 6,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.3780468252197589,
+        "climate_exposure": 0.4221251876932598,
+        "vulnerability": 0.7785440816942227,
+        "water_scarcity": 0.2008195997601251,
+        "scenario_risk_raw": 0.5510648248887848,
+        "scenario_risk": 0.019722067577658972,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.52885291861128,
+          -20.64387321753595
+        ]
+      },
+      "properties": {
+        "cell_id": 7,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.5691453877945777,
+        "climate_exposure": 0.4026888064952986,
+        "vulnerability": 0.35558309758575024,
+        "water_scarcity": 0.6307698965405638,
+        "scenario_risk_raw": 0.5733119071452091,
+        "scenario_risk": 0.02051826875009905,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.53901244609173,
+          -20.155560450574654
+        ]
+      },
+      "properties": {
+        "cell_id": 8,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.5694207416793816,
+        "climate_exposure": 0.37172239988401096,
+        "vulnerability": 0.28527273342311144,
+        "water_scarcity": 0.28064569625358887,
+        "scenario_risk_raw": 0.5107093496805085,
+        "scenario_risk": 0.01827778484858659,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.50545173043525,
+          -20.216379561734996
+        ]
+      },
+      "properties": {
+        "cell_id": 9,
+        "region_cluster": "Whitsunday",
+        "bushfire_hazard": 0.3653593998694084,
+        "climate_exposure": 0.37617297812371625,
+        "vulnerability": 0.2779437947834361,
+        "water_scarcity": 0.3964169148718316,
+        "scenario_risk_raw": 0.4116881417085055,
+        "scenario_risk": 0.014733913298375782,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3322780641906,
+          -20.908151952409636
+        ]
+      },
+      "properties": {
+        "cell_id": 10,
+        "region_cluster": "Whitsunday",
+        "bushfire_hazard": 0.4348617780081604,
+        "climate_exposure": 0.4613923375894836,
+        "vulnerability": 0.3197485197147491,
+        "water_scarcity": 0.5228301149445712,
+        "scenario_risk_raw": 0.49555629664503964,
+        "scenario_risk": 0.017735471998127156,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.60001100156006,
+          -25.383636841432256
+        ]
+      },
+      "properties": {
+        "cell_id": 11,
+        "region_cluster": "CentralWest",
+        "bushfire_hazard": 0.6364194623572668,
+        "climate_exposure": 0.608080889321408,
+        "vulnerability": 0.270086233624813,
+        "water_scarcity": 0.598935100959333,
+        "scenario_risk_raw": 0.6357577896977138,
+        "scenario_risk": 0.02275314541074529,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8621984847049,
+          -22.64553144603604
+        ]
+      },
+      "properties": {
+        "cell_id": 12,
+        "region_cluster": "Whitsunday",
+        "bushfire_hazard": 0.5726562174539721,
+        "climate_exposure": 0.3886519707346813,
+        "vulnerability": 0.4238392943383474,
+        "water_scarcity": 0.4416817905601351,
+        "scenario_risk_raw": 0.5717526763650234,
+        "scenario_risk": 0.020462465415487383,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.3605146507691,
+          -16.290748671943945
+        ]
+      },
+      "properties": {
+        "cell_id": 13,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.46002294802386395,
+        "climate_exposure": 0.35385519080834976,
+        "vulnerability": 0.29206442836347307,
+        "water_scarcity": 0.5403139811404144,
+        "scenario_risk_raw": 0.47512012452361413,
+        "scenario_risk": 0.017004081516637494,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8564788125635,
+          -23.286270990176856
+        ]
+      },
+      "properties": {
+        "cell_id": 14,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.46754098421759444,
+        "climate_exposure": 0.4816785832659927,
+        "vulnerability": 0.26993738934727146,
+        "water_scarcity": 0.23605686966793338,
+        "scenario_risk_raw": 0.4757746207485663,
+        "scenario_risk": 0.017027505292198625,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20496765298196,
+          -24.76332624528464
+        ]
+      },
+      "properties": {
+        "cell_id": 15,
+        "region_cluster": "WideBay",
+        "bushfire_hazard": 0.4735583251893031,
+        "climate_exposure": 0.56893307107586,
+        "vulnerability": 0.44796849425694274,
+        "water_scarcity": 0.22483542119507524,
+        "scenario_risk_raw": 0.5504222746129445,
+        "scenario_risk": 0.01969907133585616,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.26715939698505,
+          -26.493055032069147
+        ]
+      },
+      "properties": {
+        "cell_id": 16,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.4373069136645203,
+        "climate_exposure": 0.44168645302833087,
+        "vulnerability": 0.7557937809286672,
+        "water_scarcity": 0.25206775458982345,
+        "scenario_risk_raw": 0.5867637086924213,
+        "scenario_risk": 0.020999695484619656,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2124101280272,
+          -26.898870954372985
+        ]
+      },
+      "properties": {
+        "cell_id": 17,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.40665406739534304,
+        "climate_exposure": 0.46581884618422026,
+        "vulnerability": 0.5842599882355807,
+        "water_scarcity": 0.26549203819845707,
+        "scenario_risk_raw": 0.529872127165442,
+        "scenario_risk": 0.018963601789651143,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.99730122742417,
+          -21.993003147987647
+        ]
+      },
+      "properties": {
+        "cell_id": 18,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.3608603123321323,
+        "climate_exposure": 0.3255925649334489,
+        "vulnerability": 0.2167179485923768,
+        "water_scarcity": 0.03635973796738198,
+        "scenario_risk_raw": 0.34296957019505475,
+        "scenario_risk": 0.012274543275072288,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.27540120983036,
+          -26.27664942609372
+        ]
+      },
+      "properties": {
+        "cell_id": 19,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.38117148389289757,
+        "climate_exposure": 0.604201996486264,
+        "vulnerability": 0.3821156619377801,
+        "water_scarcity": 0.2759327706955327,
+        "scenario_risk_raw": 0.4965959712393821,
+        "scenario_risk": 0.01777268092833339,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4,
+          -28.9
+        ]
+      },
+      "properties": {
+        "cell_id": 20,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.2797817050198437,
+        "climate_exposure": 0.37379212012693774,
+        "vulnerability": 0.4373275988075557,
+        "water_scarcity": 0.1525667490962841,
+        "scenario_risk_raw": 0.3853049984274158,
+        "scenario_risk": 0.013789686573678333,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4746358059561,
+          -21.708606131739447
+        ]
+      },
+      "properties": {
+        "cell_id": 21,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.5727201766742949,
+        "climate_exposure": 0.44217350181356174,
+        "vulnerability": 0.45015248790611173,
+        "water_scarcity": 0.47019651820729147,
+        "scenario_risk_raw": 0.5959218258860675,
+        "scenario_risk": 0.021327455483116497,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.00760673499852,
+          -26.665389255949297
+        ]
+      },
+      "properties": {
+        "cell_id": 22,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.38151627076457717,
+        "climate_exposure": 0.5051852736699087,
+        "vulnerability": 0.7898087762540971,
+        "water_scarcity": 0.16891484177475433,
+        "scenario_risk_raw": 0.5744892598458357,
+        "scenario_risk": 0.020560405044189645,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.22033910273478,
+          -26.82641397571824
+        ]
+      },
+      "properties": {
+        "cell_id": 23,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.33335734345416845,
+        "climate_exposure": 0.36602022098316617,
+        "vulnerability": 0.6026819490661828,
+        "water_scarcity": 0.19666209670181167,
+        "scenario_risk_raw": 0.4627953207052965,
+        "scenario_risk": 0.016562988921342003,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.61145793076585,
+          -25.716760369409045
+        ]
+      },
+      "properties": {
+        "cell_id": 24,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.5241659598306119,
+        "climate_exposure": 0.5939139942027616,
+        "vulnerability": 0.47016981753327347,
+        "water_scarcity": 0.30191541730085236,
+        "scenario_risk_raw": 0.5980483491370568,
+        "scenario_risk": 0.021403561656777537,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4,
+          -26.646569922907773
+        ]
+      },
+      "properties": {
+        "cell_id": 25,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.29769367475908515,
+        "climate_exposure": 0.39168438903260205,
+        "vulnerability": 0.6373311706851081,
+        "water_scarcity": 0.2099265481230209,
+        "scenario_risk_raw": 0.4613234433030931,
+        "scenario_risk": 0.01651031187813181,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4,
+          -22.45083630828902
+        ]
+      },
+      "properties": {
+        "cell_id": 26,
+        "region_cluster": "WideBay",
+        "bushfire_hazard": 0.4288459811674255,
+        "climate_exposure": 0.5356101330361214,
+        "vulnerability": 0.4152160773608441,
+        "water_scarcity": 0.06965129250803351,
+        "scenario_risk_raw": 0.4930318649768392,
+        "scenario_risk": 0.017645125073941823,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.08960795491637,
+          -19.791112102106073
+        ]
+      },
+      "properties": {
+        "cell_id": 27,
+        "region_cluster": "Whitsunday",
+        "bushfire_hazard": 0.5867817159545364,
+        "climate_exposure": 0.33294435127607847,
+        "vulnerability": 0.29854333182034887,
+        "water_scarcity": 0.3921541938848438,
+        "scenario_risk_raw": 0.5248269341271212,
+        "scenario_risk": 0.018783039297635477,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8861963928005,
+          -22.22866861168657
+        ]
+      },
+      "properties": {
+        "cell_id": 28,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.35871890350001107,
+        "climate_exposure": 0.38736257649905703,
+        "vulnerability": 0.3512249760891322,
+        "water_scarcity": 0.15966394958959715,
+        "scenario_risk_raw": 0.40787094067527757,
+        "scenario_risk": 0.014597299431304837,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.05943239649443,
+          -18.929450562868873
+        ]
+      },
+      "properties": {
+        "cell_id": 29,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.4821991424197226,
+        "climate_exposure": 0.5324745679160416,
+        "vulnerability": 0.4856992882572508,
+        "water_scarcity": 0.40875702258821117,
+        "scenario_risk_raw": 0.574545149593865,
+        "scenario_risk": 0.02056240528325001,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.35177772749458,
+          -23.575201206194254
+        ]
+      },
+      "properties": {
+        "cell_id": 30,
+        "region_cluster": "WideBay",
+        "bushfire_hazard": 0.46181957247935534,
+        "climate_exposure": 0.40995483531996446,
+        "vulnerability": 0.23595557248367227,
+        "water_scarcity": 0.025,
+        "scenario_risk_raw": 0.42343001964352045,
+        "scenario_risk": 0.01515414355017914,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.87281082279614,
+          -17.354343182899672
+        ]
+      },
+      "properties": {
+        "cell_id": 31,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.4447793540537951,
+        "climate_exposure": 0.5918971192001521,
+        "vulnerability": 0.07318605093008829,
+        "water_scarcity": 0.5924747789554049,
+        "scenario_risk_raw": 0.472746203887325,
+        "scenario_risk": 0.01691912123411113,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.01428510471504,
+          -27.54974366991403
+        ]
+      },
+      "properties": {
+        "cell_id": 32,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.4883146597322333,
+        "climate_exposure": 0.44232137756467255,
+        "vulnerability": 0.8356803333485209,
+        "water_scarcity": 0.2726797570483855,
+        "scenario_risk_raw": 0.638779988281288,
+        "scenario_risk": 0.022861306922796774,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.66078000988253,
+          -16.953778375034002
+        ]
+      },
+      "properties": {
+        "cell_id": 33,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.460639573879765,
+        "climate_exposure": 0.42306413604824694,
+        "vulnerability": 0.14541160627373984,
+        "water_scarcity": 0.5366657254643106,
+        "scenario_risk_raw": 0.4520183325933841,
+        "scenario_risk": 0.016177291126405337,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5948802462683,
+          -18.033554920087155
+        ]
+      },
+      "properties": {
+        "cell_id": 34,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.618532168619176,
+        "climate_exposure": 0.4416609879808505,
+        "vulnerability": 0.2784277318138717,
+        "water_scarcity": 0.5786801139936846,
+        "scenario_risk_raw": 0.5831825270319427,
+        "scenario_risk": 0.020871528518546137,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.68619239259735,
+          -18.001525179787063
+        ]
+      },
+      "properties": {
+        "cell_id": 35,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.49989918922762433,
+        "climate_exposure": 0.5004253106582667,
+        "vulnerability": 0.3149667999430804,
+        "water_scarcity": 0.6109883126642176,
+        "scenario_risk_raw": 0.5481459201504045,
+        "scenario_risk": 0.019617602850637603,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.30182166351193,
+          -24.912167055930812
+        ]
+      },
+      "properties": {
+        "cell_id": 36,
+        "region_cluster": "CentralWest",
+        "bushfire_hazard": 0.6516422983958993,
+        "climate_exposure": 0.5540058814370403,
+        "vulnerability": 0.5594935946761666,
+        "water_scarcity": 0.5381361500340153,
+        "scenario_risk_raw": 0.7048362503039941,
+        "scenario_risk": 0.025225395510382234,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6411016202014,
+          -24.73871111452598
+        ]
+      },
+      "properties": {
+        "cell_id": 37,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.28437359681322405,
+        "climate_exposure": 0.5169364923527928,
+        "vulnerability": 0.3839051004540008,
+        "water_scarcity": 0.1020330298572255,
+        "scenario_risk_raw": 0.4049794647713582,
+        "scenario_risk": 0.014493816355266044,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.94649444906625,
+          -17.630699735075495
+        ]
+      },
+      "properties": {
+        "cell_id": 38,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.613133964024113,
+        "climate_exposure": 0.48038958880020377,
+        "vulnerability": 0.3288019371729188,
+        "water_scarcity": 0.6642628080265506,
+        "scenario_risk_raw": 0.6130129353584886,
+        "scenario_risk": 0.021939129465501934,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2110820695219,
+          -22.605201160335202
+        ]
+      },
+      "properties": {
+        "cell_id": 39,
+        "region_cluster": "CentralWest",
+        "bushfire_hazard": 0.5226422333607361,
+        "climate_exposure": 0.5514261152535928,
+        "vulnerability": 0.3288571565891931,
+        "water_scarcity": 0.5342658276082064,
+        "scenario_risk_raw": 0.5698498412264605,
+        "scenario_risk": 0.020394364819156536,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.20143881667738,
+          -27.80624879473385
+        ]
+      },
+      "properties": {
+        "cell_id": 40,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.37435139832420156,
+        "climate_exposure": 0.5229312073670203,
+        "vulnerability": 0.7379899365568229,
+        "water_scarcity": 0.262750905441314,
+        "scenario_risk_raw": 0.5701256984345578,
+        "scenario_risk": 0.020404237477062034,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67686472246066,
+          -25.0429076351223
+        ]
+      },
+      "properties": {
+        "cell_id": 41,
+        "region_cluster": "CentralWest",
+        "bushfire_hazard": 0.6176410314198649,
+        "climate_exposure": 0.536141366708032,
+        "vulnerability": 0.30392239370446017,
+        "water_scarcity": 0.5594681515405285,
+        "scenario_risk_raw": 0.6124856592267094,
+        "scenario_risk": 0.021920258771831486,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.43036427331177,
+          -19.002536894777748
+        ]
+      },
+      "properties": {
+        "cell_id": 42,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.5032809745822233,
+        "climate_exposure": 0.3026780385448494,
+        "vulnerability": 0.23715187044189334,
+        "water_scarcity": 0.4295399430147342,
+        "scenario_risk_raw": 0.45861665998226764,
+        "scenario_risk": 0.0164134387678182,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4,
+          -28.570115267811644
+        ]
+      },
+      "properties": {
+        "cell_id": 43,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.3089506198852814,
+        "climate_exposure": 0.6025479084210013,
+        "vulnerability": 0.5115594563867132,
+        "water_scarcity": 0.24313338039765536,
+        "scenario_risk_raw": 0.49030429526783287,
+        "scenario_risk": 0.017547508039258735,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0116769753285,
+          -18.67808054969416
+        ]
+      },
+      "properties": {
+        "cell_id": 44,
+        "region_cluster": "North",
+        "bushfire_hazard": 0.6170687092763689,
+        "climate_exposure": 0.44505553696673583,
+        "vulnerability": 0.24209205504011072,
+        "water_scarcity": 0.4872445598468375,
+        "scenario_risk_raw": 0.5639608091142421,
+        "scenario_risk": 0.020183602157417754,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.64808818358534,
+          -19.92279415220055
+        ]
+      },
+      "properties": {
+        "cell_id": 45,
+        "region_cluster": "Whitsunday",
+        "bushfire_hazard": 0.523432530658688,
+        "climate_exposure": 0.4018901843569876,
+        "vulnerability": 0.23860864103376095,
+        "water_scarcity": 0.55116586766084,
+        "scenario_risk_raw": 0.5078157826704645,
+        "scenario_risk": 0.018174226933918222,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8932934267949,
+          -26.334101429550785
+        ]
+      },
+      "properties": {
+        "cell_id": 46,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.20818025117649713,
+        "climate_exposure": 0.4607161304871653,
+        "vulnerability": 0.6341140492339333,
+        "water_scarcity": 0.1879243842933518,
+        "scenario_risk_raw": 0.4280482691739844,
+        "scenario_risk": 0.01531942615436039,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0266635977136,
+          -25.850772665353333
+        ]
+      },
+      "properties": {
+        "cell_id": 47,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.6809106718478418,
+        "climate_exposure": 0.4860416718850372,
+        "vulnerability": 0.6429837171666666,
+        "water_scarcity": 0.22410693320333921,
+        "scenario_risk_raw": 0.69487454600251,
+        "scenario_risk": 0.024868875920400827,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.47586848346404,
+          -23.988039537361267
+        ]
+      },
+      "properties": {
+        "cell_id": 48,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.44236931444129984,
+        "climate_exposure": 0.43878429293010157,
+        "vulnerability": 0.3855557378691655,
+        "water_scarcity": 0.197374504357362,
+        "scenario_risk_raw": 0.47959471664457176,
+        "scenario_risk": 0.017164222763558484,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2757620951343,
+          -27.146096937391473
+        ]
+      },
+      "properties": {
+        "cell_id": 49,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.3178513887431674,
+        "climate_exposure": 0.43136032023502435,
+        "vulnerability": 0.704503351259132,
+        "water_scarcity": 0.07870065479676765,
+        "scenario_risk_raw": 0.48816159368166684,
+        "scenario_risk": 0.01747082285890876,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.20967478928233,
+          -27.139946525248835
+        ]
+      },
+      "properties": {
+        "cell_id": 50,
+        "region_cluster": "SE",
+        "bushfire_hazard": 0.31861662974473676,
+        "climate_exposure": 0.5651580907845516,
+        "vulnerability": 0.8299170952346177,
+        "water_scarcity": 0.15884128767070407,
+        "scenario_risk_raw": 0.5664903191875174,
+        "scenario_risk": 0.020274130832721195,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.61699081869241,
+          -28.22545966419869
+        ]
+      },
+      "properties": {
+        "cell_id": 51,
+        "region_cluster": "DarlingDowns",
+        "bushfire_hazard": 0.4270269068016764,
+        "climate_exposure": 0.5838401369630011,
+        "vulnerability": 0.33227821539255703,
+        "water_scarcity": 0.25636137954151034,
+        "scenario_risk_raw": 0.5000421389710286,
+        "scenario_risk": 0.01789601587881076,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.95039887762496,
+          -23.006855829732515
+        ]
+      },
+      "properties": {
+        "cell_id": 52,
+        "region_cluster": "Central",
+        "bushfire_hazard": 0.2823673228524497,
+        "climate_exposure": 0.40078434071112146,
+        "vulnerability": 0.34464387479066017,
+        "water_scarcity": 0.24213370999963907,
+        "scenario_risk_raw": 0.37671825729171726,
+        "scenario_risk": 0.01348237556179459,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.66962999533277,
+          -16.543520256417366
+        ]
+      },
+      "properties": {
+        "cell_id": 53,
+        "region_cluster": "FarNorth",
+        "bushfire_hazard": 0.36279519715646974,
+        "climate_exposure": 0.5086903676992314,
+        "vulnerability": 0.11635877371928581,
+        "water_scarcity": 0.5063852075048616,
+        "scenario_risk_raw": 0.4105171709850045,
+        "scenario_risk": 0.014692005408963666,
+        "scenario_pressure_index": 1.2061777702891896
+      }
+    }
+  ]
+}

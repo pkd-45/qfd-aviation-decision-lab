@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03,
+          -27.47
+        ]
+      },
+      "properties": {
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "type_label": "RPAS / local ISR node",
+        "cost_units": 1.5,
+        "supports_suppression": false,
+        "supports_isr": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.95,
+          -27.56
+        ]
+      },
+      "properties": {
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.51,
+          -23.38
+        ]
+      },
+      "properties": {
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82,
+          -19.26
+        ]
+      },
+      "properties": {
+        "site": "Townsville",
+        "type_code": "HUB",
+        "type_label": "Strategic aviation hub",
+        "cost_units": 9.0,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24,
+          -26.4
+        ]
+      },
+      "properties": {
+        "site": "Charleville",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    }
+  ]
+}

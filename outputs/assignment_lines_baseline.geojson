@@ -1,0 +1,2705 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.6120502386724,
+            -24.044005703247183
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 0,
+        "mission": "suppression",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 89.74024980802743,
+        "distance_km": 296.1010399013422,
+        "risk_weight": 0.023589800989365032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.46150042915818,
+            -28.9
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 1,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 86.50800405363485,
+        "distance_km": 285.71099947719716,
+        "risk_weight": 0.01687490390022017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.70869881613623,
+            -23.471711441022514
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 2,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 35.49385539953104,
+        "distance_km": 82.39008683905037,
+        "risk_weight": 0.01809633593662089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.07838472636934,
+            -24.99407106309276
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 3,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 90.46652063151795,
+        "distance_km": 306.69270580677863,
+        "risk_weight": 0.013858364366188494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.3673986654205,
+            -24.32455988650356
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 4,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 53.230400458812355,
+        "distance_km": 156.63122073097622,
+        "risk_weight": 0.01848238343318321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.33996795883107,
+            -17.91042466376656
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 5,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 47.38571576786119,
+        "distance_km": 158.36476831497524,
+        "risk_weight": 0.01913151367888612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.09808691150388,
+            -28.1972516577287
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 6,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 41.3077563483598,
+        "distance_km": 109.69191092249726,
+        "risk_weight": 0.020602431975634976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.52885291861128,
+            -20.64387321753595
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 7,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 47.17896556447281,
+        "distance_km": 156.85982423193883,
+        "risk_weight": 0.020271811860498156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.53901244609173,
+            -20.155560450574654
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 8,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 38.38120353907724,
+        "distance_km": 124.82623588839833,
+        "risk_weight": 0.01795048008339079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.50545173043525,
+            -20.216379561734996
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 9,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 80.13375583699194,
+        "distance_km": 300.50328350967675,
+        "risk_weight": 0.01460038857693555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.3322780641906,
+            -20.908151952409636
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 10,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 66.80515775806407,
+        "distance_km": 241.92261971312035,
+        "risk_weight": 0.017538105472412444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.60001100156006,
+            -25.383636841432256
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 11,
+        "mission": "suppression",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 66.74302830863917,
+        "distance_km": 199.20922134648887,
+        "risk_weight": 0.022121454377154414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.8621984847049,
+            -22.64553144603604
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 12,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 41.71973412716185,
+        "distance_km": 105.19240815363436,
+        "risk_weight": 0.020386287469220034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.3605146507691,
+            -16.290748671943945
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 13,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 96.59276948802207,
+        "distance_km": 368.2524664126455,
+        "risk_weight": 0.016791621098572778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.8564788125635,
+            -23.286270990176856
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 14,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 22.945621460234143,
+        "distance_km": 36.87922736707825,
+        "risk_weight": 0.01671331941553301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.20496765298196,
+            -24.76332624528464
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 15,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 56.66411114155471,
+        "distance_km": 169.22811231449163,
+        "risk_weight": 0.01968884814831083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.26715939698505,
+            -26.493055032069147
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 16,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 44.96813368546901,
+        "distance_km": 122.72771065659725,
+        "risk_weight": 0.0217477310813234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2124101280272,
+            -26.898870954372985
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 17,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 40.158733030375394,
+        "distance_km": 103.55018310616012,
+        "risk_weight": 0.019373356064440475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.99730122742417,
+            -21.993003147987647
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 18,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 88.35961649257814,
+        "distance_km": 298.1523544463189,
+        "risk_weight": 0.012098656364691948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.27540120983036,
+            -26.27664942609372
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 19,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 90.67103171039473,
+        "distance_km": 301.1250338121267,
+        "risk_weight": 0.01769882050618261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -28.9
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 20,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 65.54912530755547,
+        "distance_km": 205.86193002919526,
+        "risk_weight": 0.014112619129235117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.4746358059561,
+            -21.708606131739447
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 21,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 75.73510048109124,
+        "distance_km": 280.6801703160662,
+        "risk_weight": 0.02126605136746116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.00760673499852,
+            -26.665389255949297
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 22,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 38.53445978544162,
+        "distance_km": 99.63957547540308,
+        "risk_weight": 0.021408416583015653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.22033910273478,
+            -26.82641397571824
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 23,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 51.5206232547857,
+        "distance_km": 149.79782373361869,
+        "risk_weight": 0.017167795252055022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.61145793076585,
+            -25.716760369409045
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 24,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 84.23765940191522,
+        "distance_km": 275.2682193664057,
+        "risk_weight": 0.021356604341202453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -26.646569922907773
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 25,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 58.25247417039493,
+        "distance_km": 175.82758804268457,
+        "risk_weight": 0.017207381565035654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -22.45083630828902
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 26,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 92.49323875054472,
+        "distance_km": 313.49743530244626,
+        "risk_weight": 0.017658696543455206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.08960795491637,
+            -19.791112102106073
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 27,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 67.07652219183564,
+        "distance_km": 245.07526014886335,
+        "risk_weight": 0.018475939233206944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.8861963928005,
+            -22.22866861168657
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 28,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 47.171695744253064,
+        "distance_km": 133.70353729107384,
+        "risk_weight": 0.014644739497504567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.05943239649443,
+            -18.929450562868873
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 29,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 19.951836787668945,
+        "distance_km": 44.54132390199337,
+        "risk_weight": 0.020621956863821112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.35177772749458,
+            -23.575201206194254
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 30,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 86.36778045989016,
+        "distance_km": 290.63930680123644,
+        "risk_weight": 0.01485074472016161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.87281082279614,
+            -17.354343182899672
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 31,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 79.59467284100107,
+        "distance_km": 295.21249545623687,
+        "risk_weight": 0.016104948831667607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.01428510471504,
+            -27.54974366991403
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 32,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 40.55639144617724,
+        "distance_km": 104.92525426363949,
+        "risk_weight": 0.02371478215946281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.66078000988253,
+            -16.953778375034002
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 33,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 70.40068559258567,
+        "distance_km": 256.9919281688852,
+        "risk_weight": 0.015615127979245792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.5948802462683,
+            -18.033554920087155
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 34,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 54.26459683063647,
+        "distance_km": 187.7707307861016,
+        "risk_weight": 0.020391222913333742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.68619239259735,
+            -18.001525179787063
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 35,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 53.49222636094,
+        "distance_km": 183.99384085023246,
+        "risk_weight": 0.019300913970398622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.30182166351193,
+            -24.912167055930812
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 36,
+        "mission": "suppression",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 57.75666190239253,
+        "distance_km": 165.5556969631741,
+        "risk_weight": 0.025218697649727093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.6411016202014,
+            -24.73871111452598
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 37,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 61.114242158473054,
+        "distance_km": 189.77451682290976,
+        "risk_weight": 0.014611487926286455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.94649444906625,
+            -17.630699735075495
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 38,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 93.47545047454155,
+        "distance_km": 353.1074435539953,
+        "risk_weight": 0.021532145175399905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.2110820695219,
+            -22.605201160335202
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 39,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 98.70106931943806,
+        "distance_km": 377.30527744520623,
+        "risk_weight": 0.020056513952215367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.20143881667738,
+            -27.80624879473385
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 40,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 33.778305211453784,
+        "distance_km": 78.62974409809344,
+        "risk_weight": 0.021129446103633952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.67686472246066,
+            -25.0429076351223
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 41,
+        "mission": "suppression",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 56.75759438957117,
+        "distance_km": 161.10127633972178,
+        "risk_weight": 0.021432577481562184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.43036427331177,
+            -19.002536894777748
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 42,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 26.069115641159375,
+        "distance_km": 70.2217803468019,
+        "risk_weight": 0.016087789891055096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -28.570115267811644
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 43,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 59.85555365449648,
+        "distance_km": 181.26352661895208,
+        "risk_weight": 0.017826456406695407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.0116769753285,
+            -18.67808054969416
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 44,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 42.938025704219854,
+        "distance_km": 141.03176747727778,
+        "risk_weight": 0.01963904025717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.64808818358534,
+            -19.92279415220055
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 45,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 81.81664704497277,
+        "distance_km": 305.28791216592344,
+        "risk_weight": 0.017747339477883983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.8932934267949,
+            -26.334101429550785
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 46,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 48.050870201342626,
+        "distance_km": 136.42972074856004,
+        "risk_weight": 0.01606557913208971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0266635977136,
+            -25.850772665353333
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 47,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 67.33185579952215,
+        "distance_km": 211.02860125009434,
+        "risk_weight": 0.025087241501664494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.47586848346404,
+            -23.988039537361267
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 48,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 30.56416413328609,
+        "distance_km": 67.70027793478067,
+        "risk_weight": 0.01715050631568401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.2757620951343,
+            -27.146096937391473
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 49,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 47.94518108828365,
+        "distance_km": 138.78786997703565,
+        "risk_weight": 0.018274128310394776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.20967478928233,
+            -27.139946525248835
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 50,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 26.63419092640333,
+        "distance_km": 53.28585591399724,
+        "risk_weight": 0.02123579496260862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.61699081869241,
+            -28.22545966419869
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 51,
+        "mission": "suppression",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 75.17276099962956,
+        "distance_km": 240.92019543578556,
+        "risk_weight": 0.017684433045562838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.95039887762496,
+            -23.006855829732515
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 52,
+        "mission": "suppression",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 29.199222941862224,
+        "distance_km": 61.21826962916954,
+        "risk_weight": 0.013581581156220969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.66962999533277,
+            -16.543520256417366
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 53,
+        "mission": "suppression",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 86.44813870348433,
+        "distance_km": 325.656895814984,
+        "risk_weight": 0.014124685505107972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.6120502386724,
+            -24.044005703247183
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 0,
+        "mission": "isr",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 129.03788996300332,
+        "distance_km": 296.1010399013422,
+        "risk_weight": 0.023589800989365032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.46150042915818,
+            -28.9
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 1,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 125.14162480394893,
+        "distance_km": 285.71099947719716,
+        "risk_weight": 0.01687490390022017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.70869881613623,
+            -23.471711441022514
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 2,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 48.89628256464389,
+        "distance_km": 82.39008683905037,
+        "risk_weight": 0.01809633593662089
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.07838472636934,
+            -24.99407106309276
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 3,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 133.009764677542,
+        "distance_km": 306.69270580677863,
+        "risk_weight": 0.013858364366188494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.3673986654205,
+            -24.32455988650356
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 4,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 76.73670777411608,
+        "distance_km": 156.63122073097622,
+        "risk_weight": 0.01848238343318321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.33996795883107,
+            -17.91042466376656
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 5,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 50.19039135862961,
+        "distance_km": 158.36476831497524,
+        "risk_weight": 0.01913151367888612
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.09808691150388,
+            -28.1972516577287
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 6,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 59.13446659593647,
+        "distance_km": 109.69191092249726,
+        "risk_weight": 0.020602431975634976
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.52885291861128,
+            -20.64387321753595
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 7,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 49.77995206325604,
+        "distance_km": 156.85982423193883,
+        "risk_weight": 0.020271811860498156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.53901244609173,
+            -20.155560450574654
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 8,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 41.04351887865409,
+        "distance_km": 124.82623588839833,
+        "risk_weight": 0.01795048008339079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.50545173043525,
+            -20.216379561734996
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 9,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 88.95544095718456,
+        "distance_km": 300.50328350967675,
+        "risk_weight": 0.01460038857693555
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.3322780641906,
+            -20.908151952409636
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 10,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 72.97889628539646,
+        "distance_km": 241.92261971312035,
+        "risk_weight": 0.017538105472412444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.60001100156006,
+            -25.383636841432256
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 11,
+        "mission": "isr",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 92.70345800493332,
+        "distance_km": 199.20922134648887,
+        "risk_weight": 0.022121454377154414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.8621984847049,
+            -22.64553144603604
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 12,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 57.44715305761288,
+        "distance_km": 105.19240815363436,
+        "risk_weight": 0.020386287469220034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.3605146507691,
+            -16.290748671943945
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 13,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 107.4324908398124,
+        "distance_km": 368.2524664126455,
+        "risk_weight": 0.016791621098572778
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.8564788125635,
+            -23.286270990176856
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 14,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 31.829710262654345,
+        "distance_km": 36.87922736707825,
+        "risk_weight": 0.01671331941553301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.20496765298196,
+            -24.76332624528464
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 15,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 81.46054211793435,
+        "distance_km": 169.22811231449163,
+        "risk_weight": 0.01968884814831083
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.26715939698505,
+            -26.493055032069147
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 16,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 64.02289149622396,
+        "distance_km": 122.72771065659725,
+        "risk_weight": 0.0217477310813234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.2124101280272,
+            -26.898870954372985
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 17,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 56.83131866481004,
+        "distance_km": 103.55018310616012,
+        "risk_weight": 0.019373356064440475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.99730122742417,
+            -21.993003147987647
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 18,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 129.8071329173696,
+        "distance_km": 298.1523544463189,
+        "risk_weight": 0.012098656364691948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.27540120983036,
+            -26.27664942609372
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 19,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 130.92188767954752,
+        "distance_km": 301.1250338121267,
+        "risk_weight": 0.01769882050618261
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -28.9
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 20,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 84.54567493033382,
+        "distance_km": 163.09134986066763,
+        "risk_weight": 0.014112619129235117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.4746358059561,
+            -21.708606131739447
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 21,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 83.54913735892714,
+        "distance_km": 280.6801703160662,
+        "risk_weight": 0.02126605136746116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.00760673499852,
+            -26.665389255949297
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 22,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 55.36484080327615,
+        "distance_km": 99.63957547540308,
+        "risk_weight": 0.021408416583015653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.22033910273478,
+            -26.82641397571824
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 23,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 40.00008496043797,
+        "distance_km": 74.00016992087593,
+        "risk_weight": 0.017167795252055022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.61145793076585,
+            -25.716760369409045
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 24,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 121.22558226240213,
+        "distance_km": 275.2682193664057,
+        "risk_weight": 0.021356604341202453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -26.646569922907773
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 25,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 52.30987278779445,
+        "distance_km": 98.6197455755889,
+        "risk_weight": 0.017207381565035654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -22.45083630828902
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 26,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 135.56153823841734,
+        "distance_km": 313.49743530244626,
+        "risk_weight": 0.017658696543455206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.08960795491637,
+            -19.791112102106073
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 27,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 73.83870731332637,
+        "distance_km": 245.07526014886335,
+        "risk_weight": 0.018475939233206944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.8861963928005,
+            -22.22866861168657
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 28,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 68.13882648415269,
+        "distance_km": 133.70353729107384,
+        "risk_weight": 0.014644739497504567
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.05943239649443,
+            -18.929450562868873
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 29,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 19.14763379145274,
+        "distance_km": 44.54132390199337,
+        "risk_weight": 0.020621956863821112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.35177772749458,
+            -23.575201206194254
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 30,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 126.98974005046367,
+        "distance_km": 290.63930680123644,
+        "risk_weight": 0.01485074472016161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.87281082279614,
+            -17.354343182899672
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 31,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 87.51249876079187,
+        "distance_km": 295.21249545623687,
+        "risk_weight": 0.016104948831667607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.01428510471504,
+            -27.54974366991403
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 32,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 7.500764780870195,
+        "distance_km": 9.00152956174039,
+        "risk_weight": 0.02371478215946281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.66078000988253,
+            -16.953778375034002
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 33,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 77.08870768242323,
+        "distance_km": 256.9919281688852,
+        "risk_weight": 0.015615127979245792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.5948802462683,
+            -18.033554920087155
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 34,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 58.21019930530044,
+        "distance_km": 187.7707307861016,
+        "risk_weight": 0.020391222913333742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.68619239259735,
+            -18.001525179787063
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 35,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 57.18013841369976,
+        "distance_km": 183.99384085023246,
+        "risk_weight": 0.019300913970398622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.30182166351193,
+            -24.912167055930812
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 36,
+        "mission": "isr",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 80.08338636119029,
+        "distance_km": 165.5556969631741,
+        "risk_weight": 0.025218697649727093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.6411016202014,
+            -24.73871111452598
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 37,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 89.16544380859116,
+        "distance_km": 189.77451682290976,
+        "risk_weight": 0.014611487926286455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            143.94649444906625,
+            -17.630699735075495
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 38,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 103.30203006018056,
+        "distance_km": 353.1074435539953,
+        "risk_weight": 0.021532145175399905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.2110820695219,
+            -22.605201160335202
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 39,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 109.90143930323806,
+        "distance_km": 377.30527744520623,
+        "risk_weight": 0.020056513952215367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.20143881667738,
+            -27.80624879473385
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 40,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 47.48615403678504,
+        "distance_km": 78.62974409809344,
+        "risk_weight": 0.021129446103633952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.67686472246066,
+            -25.0429076351223
+          ],
+          [
+            146.24,
+            -26.4
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 41,
+        "mission": "isr",
+        "site": "Charleville",
+        "type_code": "REG",
+        "response_min": 78.41297862739567,
+        "distance_km": 161.10127633972178,
+        "risk_weight": 0.021432577481562184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            147.43036427331177,
+            -19.002536894777748
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 42,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 26.15139464003688,
+        "distance_km": 70.2217803468019,
+        "risk_weight": 0.016087789891055096
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.4,
+            -28.570115267811644
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 43,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 66.80249464832895,
+        "distance_km": 127.60498929665788,
+        "risk_weight": 0.017826456406695407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            148.0116769753285,
+            -18.67808054969416
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 44,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 45.46320931198485,
+        "distance_km": 141.03176747727778,
+        "risk_weight": 0.01963904025717869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.64808818358534,
+            -19.92279415220055
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 45,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 90.26033968161549,
+        "distance_km": 305.28791216592344,
+        "risk_weight": 0.017747339477883983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.8932934267949,
+            -26.334101429550785
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 46,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 69.16114528071002,
+        "distance_km": 136.42972074856004,
+        "risk_weight": 0.01606557913208971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151.0266635977136,
+            -25.850772665353333
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 47,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 97.13572546878538,
+        "distance_km": 211.02860125009434,
+        "risk_weight": 0.025087241501664494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.47586848346404,
+            -23.988039537361267
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 48,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 43.38760422554275,
+        "distance_km": 67.70027793478067,
+        "risk_weight": 0.01715050631568401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            153.2757620951343,
+            -27.146096937391473
+          ],
+          [
+            153.03,
+            -27.47
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 49,
+        "mission": "isr",
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "response_min": 24.718618194772603,
+        "distance_km": 43.437236389545205,
+        "risk_weight": 0.018274128310394776
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            152.20967478928233,
+            -27.139946525248835
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 50,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 37.982195967748964,
+        "distance_km": 53.28585591399724,
+        "risk_weight": 0.02123579496260862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            149.61699081869241,
+            -28.22545966419869
+          ],
+          [
+            151.95,
+            -27.56
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 51,
+        "mission": "isr",
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "response_min": 108.34507328841958,
+        "distance_km": 240.92019543578556,
+        "risk_weight": 0.017684433045562838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.95039887762496,
+            -23.006855829732515
+          ],
+          [
+            150.51,
+            -23.38
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 52,
+        "mission": "isr",
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "response_min": 40.95685111093858,
+        "distance_km": 61.21826962916954,
+        "risk_weight": 0.013581581156220969
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            145.66962999533277,
+            -16.543520256417366
+          ],
+          [
+            146.82,
+            -19.26
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": 53,
+        "mission": "isr",
+        "site": "Townsville",
+        "type_code": "HUB",
+        "response_min": 95.81551704045019,
+        "distance_km": 325.656895814984,
+        "risk_weight": 0.014124685505107972
+      }
+    }
+  ]
+}

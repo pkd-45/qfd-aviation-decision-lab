@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.03,
+          -27.47
+        ]
+      },
+      "properties": {
+        "site": "Brisbane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.95,
+          -27.56
+        ]
+      },
+      "properties": {
+        "site": "Toowoomba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.35,
+          -24.87
+        ]
+      },
+      "properties": {
+        "site": "Bundaberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.51,
+          -23.38
+        ]
+      },
+      "properties": {
+        "site": "Rockhampton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.19,
+          -21.14
+        ]
+      },
+      "properties": {
+        "site": "Mackay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.82,
+          -19.26
+        ]
+      },
+      "properties": {
+        "site": "Townsville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.78,
+          -16.92
+        ]
+      },
+      "properties": {
+        "site": "Cairns"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.79,
+          -26.57
+        ]
+      },
+      "properties": {
+        "site": "Roma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.25,
+          -23.44
+        ]
+      },
+      "properties": {
+        "site": "Longreach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.49,
+          -20.73
+        ]
+      },
+      "properties": {
+        "site": "Mount Isa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.24,
+          -26.4
+        ]
+      },
+      "properties": {
+        "site": "Charleville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.16,
+          -23.53
+        ]
+      },
+      "properties": {
+        "site": "Emerald"
+      }
+    }
+  ]
+}

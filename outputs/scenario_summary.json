@@ -1,0 +1,338 @@
+[
+  {
+    "scenario": "baseline",
+    "scenario_pressure_index": 1.0,
+    "total_cost": 24.0,
+    "objective": 66.2615060692333,
+    "n_selected_sites": 5,
+    "n_rpas_nodes": 1,
+    "n_suppression_capable_sites": 4,
+    "n_isr_capable_sites": 5,
+    "selected_configuration": "Brisbane:RPAS | Charleville:REG | Rockhampton:REG | Toowoomba:REG | Townsville:HUB",
+    "selected": [
+      {
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "type_label": "RPAS / local ISR node",
+        "cost_units": 1.5,
+        "lat": -27.47,
+        "lon": 153.03,
+        "supports_suppression": false,
+        "supports_isr": true
+      },
+      {
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -27.56,
+        "lon": 151.95,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -23.38,
+        "lon": 150.51,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Townsville",
+        "type_code": "HUB",
+        "type_label": "Strategic aviation hub",
+        "cost_units": 9.0,
+        "lat": -19.26,
+        "lon": 146.82,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Charleville",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -26.4,
+        "lon": 146.24,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    ],
+    "signature": [
+      "Brisbane:RPAS",
+      "Charleville:REG",
+      "Rockhampton:REG",
+      "Toowoomba:REG",
+      "Townsville:HUB"
+    ],
+    "suppression_risk_weighted_mean_response_min": 59.29280291396974,
+    "suppression_risk_weighted_p90_response_min": 90.46652063151795,
+    "suppression_risk_coverage_within_30min": 0.0882404422892388,
+    "suppression_risk_coverage_within_45min": 0.3094392563188445,
+    "suppression_risk_coverage_within_60min": 0.5745433056185196,
+    "suppression_risk_coverage_within_90min": 0.8924038383579855,
+    "isr_risk_weighted_mean_response_min": 73.71456080212866,
+    "isr_risk_weighted_p90_response_min": 125.14162480394893,
+    "isr_risk_coverage_within_15min": 0.02371478215946281,
+    "isr_risk_coverage_within_30min": 0.07869865722473379,
+    "isr_risk_coverage_within_45min": 0.1824981344102262,
+    "isr_risk_coverage_within_60min": 0.41943629278812317,
+    "configuration_changed_vs_baseline": false,
+    "selection_jaccard_vs_baseline": 1.0
+  },
+  {
+    "scenario": "severe_drought",
+    "scenario_pressure_index": 1.1321635280859954,
+    "total_cost": 24.0,
+    "objective": 66.98424963817239,
+    "n_selected_sites": 5,
+    "n_rpas_nodes": 1,
+    "n_suppression_capable_sites": 4,
+    "n_isr_capable_sites": 5,
+    "selected_configuration": "Brisbane:RPAS | Charleville:REG | Rockhampton:REG | Toowoomba:REG | Townsville:HUB",
+    "selected": [
+      {
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "type_label": "RPAS / local ISR node",
+        "cost_units": 1.5,
+        "lat": -27.47,
+        "lon": 153.03,
+        "supports_suppression": false,
+        "supports_isr": true
+      },
+      {
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -27.56,
+        "lon": 151.95,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -23.38,
+        "lon": 150.51,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Townsville",
+        "type_code": "HUB",
+        "type_label": "Strategic aviation hub",
+        "cost_units": 9.0,
+        "lat": -19.26,
+        "lon": 146.82,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Charleville",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -26.4,
+        "lon": 146.24,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    ],
+    "signature": [
+      "Brisbane:RPAS",
+      "Charleville:REG",
+      "Rockhampton:REG",
+      "Toowoomba:REG",
+      "Townsville:HUB"
+    ],
+    "suppression_risk_weighted_mean_response_min": 60.40430110854216,
+    "suppression_risk_weighted_p90_response_min": 90.9172411737434,
+    "suppression_risk_coverage_within_30min": 0.07426733859278509,
+    "suppression_risk_coverage_within_45min": 0.28519318634118374,
+    "suppression_risk_coverage_within_60min": 0.5532383648742476,
+    "suppression_risk_coverage_within_90min": 0.8678874860729995,
+    "isr_risk_weighted_mean_response_min": 73.85417243261769,
+    "isr_risk_weighted_p90_response_min": 125.14162480394893,
+    "isr_risk_coverage_within_15min": 0.023081316301833205,
+    "isr_risk_coverage_within_30min": 0.07771457963602908,
+    "isr_risk_coverage_within_45min": 0.18015596622638244,
+    "isr_risk_coverage_within_60min": 0.41716790863239567,
+    "configuration_changed_vs_baseline": false,
+    "selection_jaccard_vs_baseline": 1.0
+  },
+  {
+    "scenario": "extreme_fire_weather",
+    "scenario_pressure_index": 1.3021322501329495,
+    "total_cost": 24.0,
+    "objective": 66.79215037199467,
+    "n_selected_sites": 5,
+    "n_rpas_nodes": 1,
+    "n_suppression_capable_sites": 4,
+    "n_isr_capable_sites": 5,
+    "selected_configuration": "Brisbane:RPAS | Charleville:REG | Rockhampton:REG | Toowoomba:REG | Townsville:HUB",
+    "selected": [
+      {
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "type_label": "RPAS / local ISR node",
+        "cost_units": 1.5,
+        "lat": -27.47,
+        "lon": 153.03,
+        "supports_suppression": false,
+        "supports_isr": true
+      },
+      {
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -27.56,
+        "lon": 151.95,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -23.38,
+        "lon": 150.51,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Townsville",
+        "type_code": "HUB",
+        "type_label": "Strategic aviation hub",
+        "cost_units": 9.0,
+        "lat": -19.26,
+        "lon": 146.82,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Charleville",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -26.4,
+        "lon": 146.24,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    ],
+    "signature": [
+      "Brisbane:RPAS",
+      "Charleville:REG",
+      "Rockhampton:REG",
+      "Toowoomba:REG",
+      "Townsville:HUB"
+    ],
+    "suppression_risk_weighted_mean_response_min": 59.899729522503584,
+    "suppression_risk_weighted_p90_response_min": 90.49568063151794,
+    "suppression_risk_coverage_within_30min": 0.08749557052243051,
+    "suppression_risk_coverage_within_45min": 0.28396321595704815,
+    "suppression_risk_coverage_within_60min": 0.5498979775896304,
+    "suppression_risk_coverage_within_90min": 0.8667968741391531,
+    "isr_risk_weighted_mean_response_min": 74.13078164623128,
+    "isr_risk_weighted_p90_response_min": 126.98974005046367,
+    "isr_risk_coverage_within_15min": 0.022632496499074763,
+    "isr_risk_coverage_within_30min": 0.07694604868228301,
+    "isr_risk_coverage_within_45min": 0.17950839705476773,
+    "isr_risk_coverage_within_60min": 0.4142011021900963,
+    "configuration_changed_vs_baseline": false,
+    "selection_jaccard_vs_baseline": 1.0
+  },
+  {
+    "scenario": "future_stress_test",
+    "scenario_pressure_index": 1.2061777702891896,
+    "total_cost": 24.0,
+    "objective": 66.77173710827304,
+    "n_selected_sites": 5,
+    "n_rpas_nodes": 1,
+    "n_suppression_capable_sites": 4,
+    "n_isr_capable_sites": 5,
+    "selected_configuration": "Brisbane:RPAS | Charleville:REG | Rockhampton:REG | Toowoomba:REG | Townsville:HUB",
+    "selected": [
+      {
+        "site": "Brisbane",
+        "type_code": "RPAS",
+        "type_label": "RPAS / local ISR node",
+        "cost_units": 1.5,
+        "lat": -27.47,
+        "lon": 153.03,
+        "supports_suppression": false,
+        "supports_isr": true
+      },
+      {
+        "site": "Toowoomba",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -27.56,
+        "lon": 151.95,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Rockhampton",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -23.38,
+        "lon": 150.51,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Townsville",
+        "type_code": "HUB",
+        "type_label": "Strategic aviation hub",
+        "cost_units": 9.0,
+        "lat": -19.26,
+        "lon": 146.82,
+        "supports_suppression": true,
+        "supports_isr": true
+      },
+      {
+        "site": "Charleville",
+        "type_code": "REG",
+        "type_label": "Regional airbase",
+        "cost_units": 4.5,
+        "lat": -26.4,
+        "lon": 146.24,
+        "supports_suppression": true,
+        "supports_isr": true
+      }
+    ],
+    "signature": [
+      "Brisbane:RPAS",
+      "Charleville:REG",
+      "Rockhampton:REG",
+      "Toowoomba:REG",
+      "Townsville:HUB"
+    ],
+    "suppression_risk_weighted_mean_response_min": 59.944182194115115,
+    "suppression_risk_weighted_p90_response_min": 90.50702063151795,
+    "suppression_risk_coverage_within_30min": 0.08775985573778264,
+    "suppression_risk_coverage_within_45min": 0.2846428069530432,
+    "suppression_risk_coverage_within_60min": 0.5515772920493055,
+    "suppression_risk_coverage_within_90min": 0.8674201241818861,
+    "isr_risk_weighted_mean_response_min": 74.01306947950997,
+    "isr_risk_weighted_p90_response_min": 126.98974005046367,
+    "isr_risk_coverage_within_15min": 0.022861306922796778,
+    "isr_risk_coverage_within_30min": 0.07730797383277375,
+    "isr_risk_coverage_within_45min": 0.1800969820529753,
+    "isr_risk_coverage_within_60min": 0.41545392301904993,
+    "configuration_changed_vs_baseline": false,
+    "selection_jaccard_vs_baseline": 1.0
+  }
+]

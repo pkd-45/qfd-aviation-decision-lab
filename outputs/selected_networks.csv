@@ -1,0 +1,21 @@
+option_id,site_idx,site,lat,lon,type_code,type_label,cost_units,supports_suppression,supports_isr,selected,scenario
+3,0,Brisbane,-27.47,153.03,RPAS,RPAS / local ISR node,1.5,False,True,True,baseline
+5,1,Toowoomba,-27.56,151.95,REG,Regional airbase,4.5,True,True,True,baseline
+13,3,Rockhampton,-23.38,150.51,REG,Regional airbase,4.5,True,True,True,baseline
+20,5,Townsville,-19.26,146.82,HUB,Strategic aviation hub,9.0,True,True,True,baseline
+41,10,Charleville,-26.4,146.24,REG,Regional airbase,4.5,True,True,True,baseline
+3,0,Brisbane,-27.47,153.03,RPAS,RPAS / local ISR node,1.5,False,True,True,severe_drought
+5,1,Toowoomba,-27.56,151.95,REG,Regional airbase,4.5,True,True,True,severe_drought
+13,3,Rockhampton,-23.38,150.51,REG,Regional airbase,4.5,True,True,True,severe_drought
+20,5,Townsville,-19.26,146.82,HUB,Strategic aviation hub,9.0,True,True,True,severe_drought
+41,10,Charleville,-26.4,146.24,REG,Regional airbase,4.5,True,True,True,severe_drought
+3,0,Brisbane,-27.47,153.03,RPAS,RPAS / local ISR node,1.5,False,True,True,extreme_fire_weather
+5,1,Toowoomba,-27.56,151.95,REG,Regional airbase,4.5,True,True,True,extreme_fire_weather
+13,3,Rockhampton,-23.38,150.51,REG,Regional airbase,4.5,True,True,True,extreme_fire_weather
+20,5,Townsville,-19.26,146.82,HUB,Strategic aviation hub,9.0,True,True,True,extreme_fire_weather
+41,10,Charleville,-26.4,146.24,REG,Regional airbase,4.5,True,True,True,extreme_fire_weather
+3,0,Brisbane,-27.47,153.03,RPAS,RPAS / local ISR node,1.5,False,True,True,future_stress_test
+5,1,Toowoomba,-27.56,151.95,REG,Regional airbase,4.5,True,True,True,future_stress_test
+13,3,Rockhampton,-23.38,150.51,REG,Regional airbase,4.5,True,True,True,future_stress_test
+20,5,Townsville,-19.26,146.82,HUB,Strategic aviation hub,9.0,True,True,True,future_stress_test
+41,10,Charleville,-26.4,146.24,REG,Regional airbase,4.5,True,True,True,future_stress_test

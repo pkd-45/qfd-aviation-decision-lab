@@ -1,0 +1,5 @@
+code,label,cost_units,water_sensitivity,suppression_speed_kmh,suppression_readiness_min,suppression_range_km,isr_speed_kmh,isr_readiness_min,isr_range_km,supports_suppression,supports_isr
+HUB,Strategic aviation hub,9.0,0.25,255.0,8.0,650.0,220.0,7.0,520.0,True,True
+REG,Regional airbase,4.5,0.45,235.0,12.0,480.0,160.0,18.0,390.0,True,True
+MOB,Mobile staging base,3.0,0.75,215.0,22.0,330.0,,,,True,False
+RPAS,RPAS / local ISR node,1.5,0.0,,,,120.0,3.0,180.0,False,True
