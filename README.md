@@ -4,11 +4,11 @@ A compact, reproducible **synthetic decision-support prototype** inspired by APR
 
 The project demonstrates how a risk-based aviation infrastructure planning workflow can combine spatial hazard, climate exposure, vulnerability, water scarcity and fiscal constraints; represent multiple facility classes; distinguish crewed suppression from ISR/RPAS service; optimise location and type; export GIS-ready layers; and stress-test a network across future-risk scenarios.
 
-> **Portfolio demonstration only.** No Queensland Fire Department operational data are used. Candidate sites, costs, speeds, ranges, readiness times, mission weights and risk values are synthetic placeholders. No output is an operational recommendation.
+> **Synthetic methodological demonstration only.** No Queensland Fire Department operational data are used. Candidate sites, costs, speeds, ranges, readiness times, mission weights and risk values are synthetic placeholders. No output is an operational recommendation.
 
 ## Why this prototype exists
 
-APR-3040 asks for a replicable, risk-based framework to support strategic planning around aviation hubs, airbases, mobile facilities, crewed aircraft and Remotely Piloted Aircraft Systems (RPAS). The advertised project specifically calls for integration of bushfire/climate risk, vulnerability, water availability and fiscal considerations, with spatial analysis, maps and a practical decision-support tool.
+Public APR.Intern project materials describe a risk-based approach to aviation infrastructure planning, including spatial hazard, bushfire/climate exposure, vulnerability, water availability and fiscal constraints. This prototype explores the underlying optimisation problem using fully synthetic data and configurable assumptions.
 
 This repository implements a deliberately small end-to-end version of that analytical pattern to demonstrate capability in:
 
@@ -278,4 +278,4 @@ GitHub Actions repeats linting, tests and a full demonstration run on Python 3.1
 
 ## Context
 
-Built as a targeted research-software demonstration for the Queensland Fire Department / APR.Intern APR-3040 internship application, August 2026.
+This independent synthetic methods study was motivated by the public APR.Intern APR-3040 project description. It is not endorsed by QFD or an assessment of Queensland's actual aviation infrastructure.
